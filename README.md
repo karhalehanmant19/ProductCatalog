@@ -57,7 +57,7 @@ The database schema consists of the following tables:
 
 ## Contributors
 
-- [Your Name]
+- [Hanmant Karhale]
 
 ## License
 
